@@ -1,4 +1,4 @@
-const CACHE = 'qrgen-v1';
+const CACHE = 'qrgen-v2';
 const ASSETS = [
   './index.html',
   './manifest.json',
